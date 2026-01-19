@@ -11,7 +11,7 @@ const App: React.FC = () => (
     <Pagination
       showSizeChanger
       onShowSizeChange={onShowSizeChange}
-      defaultCurrent={3}
+      defaultCurrent={2}
       total={500}
     />
     <br />
